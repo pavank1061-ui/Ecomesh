@@ -1,0 +1,33 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.13.0
+2 info using node@v24.16.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\PAVAN KUMAR G\OneDrive\Pictures\Desktop\chennai\.npmrc
+5 silly config load:file:C:\Users\PAVAN KUMAR G\.npmrc
+6 silly config load:file:C:\Users\PAVAN KUMAR G\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install ggwave
+8 verbose argv "install" "ggwave" "--save" "--cache" ".npm-cache"
+9 verbose logfile logs-max:10 dir:C:\Users\PAVAN KUMAR G\OneDrive\Pictures\Desktop\chennai\.npm-cache\_logs\2026-10-27T16_30_29_970Z-
+10 verbose logfile C:\Users\PAVAN KUMAR G\OneDrive\Pictures\Desktop\chennai\.npm-cache\_logs\2026-10-27T16_30_29_970Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly idealTree buildDeps
+14 silly fetch manifest ggwave@*
+15 silly packumentCache full:https://registry.npmjs.org/ggwave cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/ggwave 548ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/ggwave set size:undefined disposed:false
+18 silly placeDep ROOT ggwave@0.4.0 OK for: echomesh-prototype@0.1.0 want: *
+19 silly reify moves {}
+20 silly audit bulk request { ggwave: [ '0.4.0' ] }
+21 http cache ggwave@https://registry.npmjs.org/ggwave/-/ggwave-0.4.0.tgz 0ms (cache hit)
+22 silly tarball no local data for ggwave@https://registry.npmjs.org/ggwave/-/ggwave-0.4.0.tgz. Extracting by manifest.
+23 http fetch GET 200 https://registry.npmjs.org/ggwave/-/ggwave-0.4.0.tgz 246ms (cache miss)
+24 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 529ms
+25 silly audit report {}
+26 silly ADD node_modules/ggwave
+27 verbose cwd C:\Users\PAVAN KUMAR G\OneDrive\Pictures\Desktop\chennai
+28 verbose os Windows_NT 10.0.26200
+29 verbose node v24.16.0
+30 verbose npm  v11.13.0
+31 verbose exit 0
+32 info ok
